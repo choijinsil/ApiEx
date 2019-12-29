@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiEx</string>
+    <string name="server_api">http://192.168.2.254:25555/persons</string>
+</resources>
